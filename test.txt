@@ -1,1 +1,3 @@
-Hello github
+public void GitHub_Test(){
+	webdriver.findElement(By.xpath(//*test1)).click;
+}
